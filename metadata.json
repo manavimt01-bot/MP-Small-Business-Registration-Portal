@@ -1,0 +1,11 @@
+{
+  "name": "MP Street Vendor Registration Portal",
+  "description": "A flagship, CM-grade digital experience for street vendor registration in Madhya Pradesh, focusing on dignity, ease of use, and economic empowerment under Dr. Mohan Yadav.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
